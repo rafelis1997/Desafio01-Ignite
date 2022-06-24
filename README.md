@@ -1,14 +1,14 @@
-# Desafio01-Ignite
+# Desafio01-Ignite-ToDo
 
 <p align="center">
- <img src="https://user-images.githubusercontent.com/60658855/167766042-7c8b9d88-ccce-4ab1-9c9e-21fac20d8d17.gif" align="center"/>
+ <img src="https://user-images.githubusercontent.com/60658855/175439208-3bb9240b-fda2-4d07-91e5-3d1ea37822f1.gif" align="center"/>
 </p>
 
 This is a study project made to develop ReactJS and learn it's concepts.
 
 I've build from the start the whole React configuration, not using create-react-app or anything else.
 
-We used WebPack as the compiler.
+We used Webpack as the compiler.
 
 In this project I've build a ReactJS tasks app following the best praticts for react and css. Also learned about SaSS, useEffect, useState. In order to keep update to new technologies I used typescript as the main language of this project.
 
@@ -33,7 +33,7 @@ For UI/UX design we use Figma with the design build to guide.
 
 ## Demonstration
 
-Try it on [ToDo](https://dtmoney-eight-coral.vercel.app), it's live on Versel
+Try it on [ToDo](https://rafelis1997.github.io/Desafio01-Ignite/), it's live on Github Pages
 
 
 ## Reference
